@@ -1,0 +1,17 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Builds y temporales de Vite
+dist/
+.vite/
+
+# Variables de entorno (no subir credenciales nunca)
+.env
+backend/.env
+frontend/.env
+
+# Sistema / IDE
+.DS_Store
+Thumbs.db
+.vscode/
